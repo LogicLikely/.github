@@ -1,5 +1,3 @@
-## Hi there 👋
-
 LogicLikely is building tools that help people navigate today's misinformation-laden social media landscape.
 
 Current initiatives include graph visualization, reasoning analysis, and educational internship projects focused on algorithms and software engineering.
