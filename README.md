@@ -1,2 +1,2 @@
 # .github
-Project description
+LogicLikely organization profile and community files.
